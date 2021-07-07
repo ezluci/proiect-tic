@@ -1,0 +1,23 @@
+.poza
+{
+    padding-top: 0.45em;
+    padding-bottom: 0.45em;
+    height: 9em;
+    width: auto;
+}
+
+.trailer
+{
+    padding-top: 0.45em;
+    padding-bottom: 0.45em;
+    height: 9em;
+    float: right;
+    width: auto;
+}
+
+.fundal_gri
+{
+    width: 100%;
+    top: 0px;
+    bottom: 2px;
+}

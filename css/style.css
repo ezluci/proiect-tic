@@ -1,0 +1,390 @@
+img
+{
+    width: 20%;
+}
+
+.jocuri
+{
+    padding: 50px;
+    text-align: center;
+}
+
+a
+{
+    color: red;
+}
+
+.link_imagine
+{
+    size: 100%;
+    font-size: 80%;
+    color: blue;
+    text-decoration: none;
+}
+
+.cs:hover .overlay
+{
+    bottom: 0;
+    height: 100%;
+}
+
+.cs
+{
+    position: relative;
+    width: 20%;
+}
+
+#imagine_cs
+{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.lol:hover .overlay
+{
+    bottom: 0;
+    height: 100%;
+}
+
+.lol
+{
+    position: relative;
+    width: 20%;
+}
+
+#imagine_lol
+{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.fortnite:hover .overlay
+{
+    bottom: 0;
+    height: 100%;
+}
+
+.fortnite
+{
+    position: relative;
+    width: 20%;
+}
+
+#imagine_fortnite
+{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.minecraft:hover .overlay
+{
+    bottom: 0;
+    height: 100%;
+}
+
+.minecraft
+{
+    position: relative;
+    width: 20%;
+}
+
+#imagine_minecraft
+{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.the_witcher:hover .overlay
+{
+    bottom: 0;
+    height: 100%;
+}
+
+.the_witcher
+{
+    position: relative;
+    width: 20%;
+}
+
+#imagine_the_witcher
+{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.gta_v:hover .overlay
+{
+    bottom: 0;
+    height: 100%;
+}
+
+.gta_v
+{
+    position: relative;
+    width: 20%;
+}
+
+#imagine_gta_v
+{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.valorant:hover .overlay
+{
+    bottom: 0;
+    height: 100%;
+}
+
+.valorant
+{
+    position: relative;
+    width: 20%;
+}
+
+#imagine_valorant
+{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.portal_2:hover .overlay
+{
+    bottom: 0;
+    height: 100%;
+}
+
+.portal_2
+{
+    position: relative;
+    width: 20%;
+}
+
+#imagine_portal_2
+{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.among_us:hover .overlay
+{
+    bottom: 0;
+    height: 100%;
+}
+
+.among_us
+{
+    position: relative;
+    width: 20%;
+}
+
+#imagine_among_us
+{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.dbd:hover .overlay
+{
+    bottom: 0;
+    height: 100%;
+}
+
+.dbd
+{
+    position: relative;
+    width: 20%;
+}
+
+#imagine_dbd
+{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.rocket_league:hover .overlay
+{
+    bottom: 0;
+    height: 100%;
+}
+
+.rocket_league
+{
+    position: relative;
+    width: 20%;
+}
+
+#imagine_rocket_league
+{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.cod:hover .overlay
+{
+    bottom: 0;
+    height: 100%;
+}
+
+.cod
+{
+    position: relative;
+    width: 20%;
+}
+
+#imagine_cod
+{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.assassins_creed:hover .overlay
+{
+    bottom: 0;
+    height: 100%;
+}
+
+.assassins_creed
+{
+    position: relative;
+    width: 20%;
+}
+
+#imagine_assassins_creed
+{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.roblox:hover .overlay
+{
+    bottom: 0;
+    height: 100%;
+}
+
+.roblox
+{
+    position: relative;
+    width: 20%;
+}
+
+#imagine_roblox
+{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.world_of_warcraft:hover .overlay
+{
+    bottom: 0;
+    height: 100%;
+}
+
+.world_of_warcraft
+{
+    position: relative;
+    width: 20%;
+}
+
+#imagine_world_of_warcraft
+{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.nfs:hover .overlay
+{
+    bottom: 0;
+    height: 100%;
+}
+
+.nfs
+{
+    position: relative;
+    width: 20%;
+}
+
+#imagine_nfs
+{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.text
+{
+    opacity: 100%;
+    color: white;
+    font-size: 22px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.overlay
+{
+    position: absolute;
+    bottom: 100%;
+    left: 0;
+    right: 0;
+    background-color: #008CBA;
+    opacity: 75%;
+    overflow: hidden;
+    width: 100%;
+    height:0;
+    transition: .5s ease;
+}
+
+.rosu
+{
+    color: red;
+}
+
+.verde
+{
+    color: rgb(51, 255, 0);
+}
+
+.margine_stanga
+{
+    padding-left: 0.7em;
+}
+
+.margine_dreapta
+{
+    padding-right: 0.7em;
+}
+
+.subliniat
+{
+    text-decoration: underline;
+}
+
+.inline
+{
+    display: inline-block;
+}
+
+.nu_inline
+{
+    display: block;
+}

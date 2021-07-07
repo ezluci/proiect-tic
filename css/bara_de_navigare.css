@@ -1,0 +1,74 @@
+@keyframes schimba_culoarea
+{
+    0%
+    {
+        color: green;
+    }
+    20%
+    {
+        color: yellow;
+    }
+    40%
+    {
+        color: red;
+    }
+    60%
+    {
+        color: violet;
+    }
+    80%
+    {
+        color: aqua;
+    }
+    100%
+    {
+        color: green;
+    }
+}
+
+div.bara_de_navigare
+{
+    height: 50px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #1c1c1c;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    position: fixed;
+    z-index: 10;
+}
+
+ul.asdfa
+{
+    padding-left: 19px;
+    height: 50px;
+    width: 100%;
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    position: fixed;
+}
+
+li.nume
+{
+    padding-right: 15px;
+    padding-top: 10px;
+    font-size: 50%;
+    float: left;
+}
+
+a.principal
+{
+    color: green;
+    padding-right: 15px;
+    animation-name: schimba_culoarea;
+    animation-iteration-count: infinite;
+    animation-duration: 30s;
+    font-weight: bold;
+}
